@@ -1,0 +1,20 @@
+name: Dox_Varo
+version: ${project.version}
+main: de.pandadoxo.dox_varo.Main
+authors: [Pandadoxo]
+depends:
+  - LabyModAPI
+
+commands:
+  team:
+  backpack:
+    aliases: [bp,rucksack,rs,teamchest,tc]
+  spawn:
+  prestart:
+  start:
+  teamlist:
+  whitelist:
+  world:
+  bot:
+  sync:
+  loadregister:
